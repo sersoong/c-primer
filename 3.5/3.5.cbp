@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="3.3" />
+		<Option title="3.5" />
 		<Option pch_mode="2" />
 		<Option compiler="clang" />
 		<Build>
@@ -31,7 +31,6 @@
 		<Compiler>
 			<Add option="-Weverything" />
 		</Compiler>
-		<Unit filename="main.cpp" />
 		<Extensions>
 			<envvars />
 			<code_completion />
